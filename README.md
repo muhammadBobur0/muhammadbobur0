@@ -3,7 +3,7 @@ ___
 
 *hello world*:relaxed:
 
-### How to reach me: <a href="muhammadboburbek@gmail.com">muhammadboburbek@gaail.com</a>
+### How to reach me: <a href="muhammadboburbek@gmail.com">muhammadboburbek@gamil.com</a>
 :chart_with_upwards_trend:**My GitHub Stats:"**
 <div display="flex">
 <p>
